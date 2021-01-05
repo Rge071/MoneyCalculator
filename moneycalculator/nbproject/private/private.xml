@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/raulx/OneDrive/Escritorio/moneycalculator-m/src/moneycalculator/control/Changer.java</file>
+            <file>file:/C:/Users/raulx/OneDrive/Escritorio/moneycalculator-m/src/moneycalculator/model/CurrencyList.java</file>
+            <file>file:/C:/Users/raulx/OneDrive/Escritorio/moneycalculator-m/src/moneycalculator/model/Currency.java</file>
+            <file>file:/C:/Users/raulx/OneDrive/Escritorio/moneycalculator-m/src/moneycalculator/persistance/file/FileCurrencyListLoader.java</file>
+            <file>file:/C:/Users/raulx/OneDrive/Escritorio/moneycalculator-m/src/moneycalculator/model/Money.java</file>
+            <file>file:/C:/Users/raulx/OneDrive/Escritorio/moneycalculator-m/src/moneycalculator/control/ChangerHandler.java</file>
+            <file>file:/C:/Users/raulx/OneDrive/Escritorio/moneycalculator-m/src/moneycalculator/ui/swing/SwingMoneyDialog.java</file>
+            <file>file:/C:/Users/raulx/OneDrive/Escritorio/moneycalculator-m/src/moneycalculator/ui/MoneyDialog.java</file>
+            <file>file:/C:/Users/raulx/OneDrive/Escritorio/moneycalculator-m/src/moneycalculator/model/ExchangeRate.java</file>
+            <file>file:/C:/Users/raulx/OneDrive/Escritorio/moneycalculator-m/src/moneycalculator/persistance/rest/RestExchangeRateLoader.java</file>
+            <file>file:/C:/Users/raulx/OneDrive/Escritorio/moneycalculator-m/src/moneycalculator/persistance/ExchangeRateLoader.java</file>
+            <file>file:/C:/Users/raulx/OneDrive/Escritorio/moneycalculator-m/src/moneycalculator/ui/MoneyDisplay.java</file>
+            <file>file:/C:/Users/raulx/OneDrive/Escritorio/moneycalculator-m/src/moneycalculator/MoneyCalculatorFrame.java</file>
+            <file>file:/C:/Users/raulx/OneDrive/Escritorio/moneycalculator-m/src/moneycalculator/MoneyCalculator.java</file>
+            <file>file:/C:/Users/raulx/OneDrive/Escritorio/moneycalculator-m/src/moneycalculator/persistance/CurrencyListLoader.java</file>
+            <file>file:/C:/Users/raulx/OneDrive/Escritorio/moneycalculator-m/src/moneycalculator/ui/swing/SwingMoneyDisplay.java</file>
+        </group>
+    </open-files>
+</project-private>
